@@ -1,9 +1,18 @@
-../.VirtualBox/
-../.bash_history
-../.docker/
-../.gitconfig
-../.nbi/
-../.packettracer
+.VirtualBox/
+.bash_history
+.docker/
+.gitconfig
+.nbi/
+.packettracer
+.ssh/
+.vscode/
+3D Objects/
+AppData/
+Cisco Packet Tracer 8.2.1/
+Contacts/
+Desktop/
+Documents/Ma musique/
+Documents/Mes images/
 Documents/Mes vidéos/
 Local Settings/
 Menu Démarrer/
@@ -13,3 +22,31 @@ Recent/
 SendTo/
 Voisinage d'impression/
 Voisinage réseau/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+VirtualBox VMs/
+WPS Cloud Files/
+apuntes-asir/
+basex/
+docker-compose.yml
+dockersconf/
+index.css
+index.htlm
+index.js
+m-rpo/
+miarchivo.txt
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+projects/
+scp
+ssh
+zaproxy/
